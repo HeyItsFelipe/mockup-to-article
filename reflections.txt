@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+
+	Most of the html I was familiar with.  The figure and the figure caption tag was new to me.  
+* What has been easy?
+
+	The concept of organizing the html and thinking about it as a tree was easy.  
+* What has been difficult?
+  
+	Remembering all the tags and the tag syntax is something I'm still working on.
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+	Whenever I get stuck on what tag to use or how it looks like, I would search for it online.
